@@ -1,5 +1,5 @@
 # PBO Tugas 2
-Abstract class dan Interface dalam Java, C#, Python
+Abstract class dan Interface dalam Java, C#, dan Python
 
 Nama  : Arkan Mahardika\
 Kelas : SI 2021B\
